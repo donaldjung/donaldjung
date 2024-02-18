@@ -10,6 +10,7 @@
 - 💬 Ask me about Dietetics (Previously studied), science of body composition, science of anti-aging / lifespan.
 - 📫 How to reach me: https://www.linkedin.com/in/donald-jung-6565212a3/
 - ⚡ Fun fact: Previously had liver tumours, but survived it through lifestyle changes, medical treatments/surgeries.
+- Interest: Aritificial Intelligence, Machine Learning, Finance, Dietetics, LifeSpan Resarch, Cancer Research
 
 ## My Skills
 ```Python, Java, HTML, CSS, Javascript, React, AWS/Azure, Docker, Kubernotes
