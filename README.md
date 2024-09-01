@@ -21,8 +21,11 @@ Cloud           ████████████░░░░░░░░░�
 
 **Acheivements / Certification**
 Michel Julien Award, Toronto Metropolitan University
+Artificial Intelligence, IBM SkillsBuild
 Cloud Computing, IBM SkillsBuild
-React, Meta
-HTML, CSS, Javascript, Meta
-Version Control, Meta
+Front-end Development, Meta Professional Certification (React, Javascript, HTML, CSS, Version Control)
 Python Programming, University of Toronto
+
+In progress:
+DataCamp Associate Data Sciencetist Ceritifcation (Emphasis on Data manipulation and visualization with Python, numpy, pandas, matplotlib)
+MongoDB NoSQL Associates Certification 
