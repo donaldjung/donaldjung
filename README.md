@@ -20,7 +20,7 @@ Full Stack      ████████████████░░░░░�
 Cloud           ████████████░░░░░░░░░░░   50%
 
 **Acheivements / Certification**
-Michel Julien Award, Toronto Metropolitan University
+Michel Julien Award, Toronto Metropolitan University (4.0 GPA)
 Artificial Intelligence, IBM SkillsBuild
 Cloud Computing, IBM SkillsBuild
 Front-end Development, Meta Professional Certification (React, Javascript, HTML, CSS, Version Control)
