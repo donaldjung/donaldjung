@@ -2,6 +2,9 @@
 
 # Hi there, I'm Donald Jung! 👋
 
+CONTRIBUTIONS TO OPENSOURCE:
+Invalid email bug - https://github.com/PaddleHQ/paddle-nextjs-starter-kit/issues/31#event-16651797030
+
 ## About Me
 - 🎓 I'm currently studying Computer Science at Toronto Metropolitan University.
 - 💼 I'm open to work: Internships | Junior/Entry level positions 
