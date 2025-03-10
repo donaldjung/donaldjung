@@ -2,7 +2,7 @@
 
 # Hi there, I'm Donald Jung! 👋
 
-CONTRIBUTIONS TO OPENSOURCE: </b>
+CONTRIBUTIONS TO OPENSOURCE: <br>
 Invalid email bug - https://github.com/PaddleHQ/paddle-nextjs-starter-kit/issues/31#event-16651797030
 
 ## About Me
