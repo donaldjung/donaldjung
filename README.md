@@ -7,7 +7,6 @@ Invalid email bug - https://github.com/PaddleHQ/paddle-nextjs-starter-kit/issues
 
 ## About Me
 - 🎓 I'm currently studying Computer Science at Toronto Metropolitan University.
-- 💼 I'm open to work: Internships | Junior/Entry level positions 
 - 🌱 I’m currently learning Fullstack Software Development.
 - 👯 I’m looking to collaborate on anything that has a significant impact on society.
 - 💬 Ask me about Dietetics (Previously studied), science of body composition, science of anti-aging / lifespan.
